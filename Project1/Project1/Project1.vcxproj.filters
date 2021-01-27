@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\구현">
       <UniqueIdentifier>{43bd0455-1312-4a73-86d5-47c1d52db5ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\탐색">
+      <UniqueIdentifier>{aa8f07b9-ec84-4d9f-b57a-a4b7016521fe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1051.cpp">
@@ -28,6 +31,9 @@
       <Filter>소스 파일\구현</Filter>
     </ClCompile>
     <ClCompile Include="10429.cpp">
+      <Filter>소스 파일\탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="2482.cpp">
       <Filter>소스 파일\구현</Filter>
     </ClCompile>
   </ItemGroup>
