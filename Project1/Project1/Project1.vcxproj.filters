@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\탐색">
       <UniqueIdentifier>{aa8f07b9-ec84-4d9f-b57a-a4b7016521fe}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{0a4c2a05-3a41-4c97-96b8-2f81abff532e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1051.cpp">
@@ -47,6 +50,9 @@
     </ClCompile>
     <ClCompile Include="1182.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1913.cpp">
+      <Filter>소스 파일\그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
