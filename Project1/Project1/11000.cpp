@@ -18,11 +18,11 @@ int main()
 	cin.tie(0);
 	int N;
 	cin >> N;
-	priority_queue <pii,vector<pii>,compare> pq;
+	priority_queue <pii, vector<pii>, compare> pq;
 
 	for (int i = 0; i < N; i++)
 	{
-		cin >> arr[i].first>>arr[i].second;
+		cin >> arr[i].first >> arr[i].second;
 	}
 
 	sort(arr, arr + N);
