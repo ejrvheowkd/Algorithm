@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\DP">
       <UniqueIdentifier>{59c96bdc-f84f-464a-bc75-1229e5ad8e8f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{0f5d6b34-f384-44bc-b503-a6927f1eb60a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1051.cpp">
@@ -98,6 +101,27 @@
     </ClCompile>
     <ClCompile Include="1654.cpp">
       <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="2110.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="16434.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="15732.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1300.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1918.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="1935.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="1725.cpp">
+      <Filter>소스 파일\스택</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
